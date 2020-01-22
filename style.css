@@ -24,3 +24,6 @@
 .price-list .price-number {
 	text-align: center;
 }
+.price-list .price-name {
+  font-weight: bold;
+}
